@@ -1,0 +1,62 @@
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.Arduino_Website.resources
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.GyroscopeReader.resources
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.Main.resources
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.Properties.Resources.resources
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.SerialMonitor.resources
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.ServoArm.resources
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe.config
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe.manifest
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.application
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.pdb
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Geckofx-Core.dll
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Geckofx-Winforms.dll
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Geckofx-Core.pdb
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Geckofx-Winforms.pdb
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.exe.manifest
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.application
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino .75B42DC6.Up2Date
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.exe
+C:\Users\Admin\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.pdb
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe.config
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe.manifest
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.application
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.pdb
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\bin\x64\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.GyroscopeReader.resources
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.Main.resources
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.Properties.Resources.resources
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.SerialMonitor.resources
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.ServoArm.resources
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.exe.manifest
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.application
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino .75B42DC6.Up2Date
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.exe
+C:\Users\Admin\source\repos\Arduino Toolbox - Copy\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.pdb
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe.config
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe.manifest
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.application
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.exe
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Arduino Toolbox.pdb
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Debug\Guna.UI2.dll
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.GyroscopeReader.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.Main.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.Properties.Resources.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.SerialMonitor.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino_Toolbox.ServoArm.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.GenerateResource.cache
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.exe.manifest
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.application
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino .75B42DC6.Up2Date
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.exe
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Debug\Arduino Toolbox.pdb

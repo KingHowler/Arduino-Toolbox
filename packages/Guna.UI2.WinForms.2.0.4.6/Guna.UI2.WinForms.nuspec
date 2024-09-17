@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Guna.UI2.WinForms</id>
+    <version>2.0.4.6</version>
+    <authors>Sobatdata, Ilham Mutaqin, Russell Chidhakwa</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://gunaui.com/</projectUrl>
+    <description>Guna UI is the suite for creating groundbreaking desktop app UI. It is for developers targeting the .NET Windows Forms platform.</description>
+    <releaseNotes>Note: Before updating Guna.UI, don't forget to backup your project!!
+
++ Guna2TabControl supports right-to-left.
++ Fixed activation issue on GunaUI_LicenseMgr.
++ GunaUI_LicenseMgr name changed to GunaUILicenseMgr.</releaseNotes>
+    <copyright>© 2023 Sobatdata Technology</copyright>
+    <tags>c# vb winforms controls .net guna ui gunaui guna-ui framework gunaframework guna-framework ui-controls sobatdata interface</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETFramework4.8" />
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Management" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="System.Management" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="System.Management" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETFramework4.8" />
+    </frameworkReferences>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Design" targetFramework=".NETFramework4.0, .NETFramework4.5, .NETFramework4.6.1, .NETFramework4.7.2, .NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Management" targetFramework=".NETFramework4.0, .NETFramework4.5, .NETFramework4.6.1, .NETFramework4.7.2, .NETFramework4.8" />
+      <frameworkAssembly assemblyName="System.Web" targetFramework=".NETFramework4.0, .NETFramework4.5, .NETFramework4.6.1, .NETFramework4.7.2, .NETFramework4.8" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
