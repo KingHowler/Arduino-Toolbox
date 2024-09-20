@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Arduino Toolbox.exe" size="518624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Arduino Toolbox.exe" size="519136">
       <assemblyIdentity name="Arduino Toolbox" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ngK86lJC/QK7KJH90SFcriYI25fb95cBRvD0jX4ITQY=</dsig:DigestValue>
+        <dsig:DigestValue>rgv0vueTQHKMzAwJpgDTzC4FYpNVbTNwiBMxf0n5/wE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

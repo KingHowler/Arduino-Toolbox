@@ -52,6 +52,7 @@
             this.Connect = new Guna.UI2.WinForms.Guna2Button();
             this.Disconnect = new Guna.UI2.WinForms.Guna2Button();
             this.Arduino = new System.IO.Ports.SerialPort(this.components);
+            this.label3 = new System.Windows.Forms.Label();
             this.toolStrip.SuspendLayout();
             this.Applet.SuspendLayout();
             this.pitch_pbar.SuspendLayout();
@@ -96,6 +97,11 @@
             this.marginLabel.Margin = new System.Windows.Forms.Padding(0);
             this.marginLabel.Name = "marginLabel";
             this.marginLabel.Size = new System.Drawing.Size(111, 20);
+            // 
+            // website
+            // 
+            this.website.Name = "website";
+            this.website.Size = new System.Drawing.Size(0, 0);
             // 
             // Serial_Monitor
             // 
@@ -172,6 +178,7 @@
             this.Applet.BorderColor = System.Drawing.Color.Black;
             this.Applet.BorderRadius = 5;
             this.Applet.BorderThickness = 0;
+            this.Applet.Controls.Add(this.label3);
             this.Applet.Controls.Add(this.Connect_pbar);
             this.Applet.Controls.Add(this.pitch_pbar);
             this.Applet.Controls.Add(this.roll_pbar);
@@ -187,7 +194,7 @@
             this.Applet.ForeColor = System.Drawing.Color.Black;
             this.Applet.Location = new System.Drawing.Point(184, 149);
             this.Applet.Name = "Applet";
-            this.Applet.Size = new System.Drawing.Size(473, 341);
+            this.Applet.Size = new System.Drawing.Size(473, 358);
             this.Applet.TabIndex = 6;
             this.Applet.Click += new System.EventHandler(this.GyroscopeReader_Click);
             // 
@@ -243,7 +250,7 @@
             this.roll_pbar.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.roll_pbar.ForeColor = System.Drawing.Color.White;
             this.roll_pbar.Location = new System.Drawing.Point(41, 153);
-            this.roll_pbar.Maximum = 180;
+            this.roll_pbar.Maximum = 360;
             this.roll_pbar.Minimum = 0;
             this.roll_pbar.Name = "roll_pbar";
             this.roll_pbar.ProgressBrushMode = Guna.UI2.WinForms.Enums.BrushMode.SolidTransition;
@@ -364,6 +371,15 @@
             // 
             this.Arduino.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.Arduino_DataReceived);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(67, 330);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(352, 28);
+            this.label3.TabIndex = 15;
+            this.label3.Text = "Input format: 90/80 (String of : Roll/Pitch)";
+            // 
             // GyroscopeReader
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
@@ -416,5 +432,6 @@
         private System.Windows.Forms.Label roll;
         private Guna.UI2.WinForms.Guna2ProgressBar Connect_pbar;
         private System.Windows.Forms.ToolStripLabel ServoArm;
+        private System.Windows.Forms.Label label3;
     }
 }

@@ -193,7 +193,7 @@ namespace Arduino_Toolbox
             String[] data = Arduino.ReadLine().Split('/');
             try
             {
-                roll_pbar.Value = (int)float.Parse(data[0]) + 90;
+                roll_pbar.Value = (int)float.Parse(data[0]) + 180;
                 pitch_pbar.Value = (int)float.Parse(data[1]) + 90;
                 roll.Text = data[0];
                 pitch.Text = data[1];

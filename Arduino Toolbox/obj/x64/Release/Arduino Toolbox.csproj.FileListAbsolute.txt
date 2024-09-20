@@ -1,0 +1,19 @@
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Release\Arduino Toolbox.exe.config
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Release\Arduino Toolbox.exe.manifest
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Release\Arduino Toolbox.application
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Release\Arduino Toolbox.exe
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Release\Arduino Toolbox.pdb
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\bin\x64\Release\Guna.UI2.dll
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino Toolbox.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino_Toolbox.GyroscopeReader.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino_Toolbox.Main.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino_Toolbox.Properties.Resources.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino_Toolbox.SerialMonitor.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino_Toolbox.ServoArm.resources
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino Toolbox.csproj.GenerateResource.cache
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino Toolbox.exe.manifest
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino Toolbox.application
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino .75B42DC6.Up2Date
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino Toolbox.exe
+C:\Users\shahb\source\repos\Arduino Toolbox\Arduino Toolbox\obj\x64\Release\Arduino Toolbox.pdb
